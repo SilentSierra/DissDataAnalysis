@@ -1,9 +1,4 @@
-ID,Gender,Age,Country,"How_often_movies
-","How often games
-","Women in media important
-",Use Bechdel before,"Is Bechdel good
-",Modifications on Bechdel,Strength,Historical context,Representation changed
-1,Woman,23-27,United Kingdom,At least once a week,At least once a day,Moderately important,No,No,Yes,Yes,Historical accuracy/context can justify a lack of representation in some instances,Yes
+ID,Gender,Age,Country,"How_often_movies","How often games","Women in media important",Use Bechdel before,"Is Bechdel good",Modifications on Bechdel,Strength,Historical context,Representation changed1,Woman,23-27,United Kingdom,At least once a week,At least once a day,Moderately important,No,No,Yes,Yes,Historical accuracy/context can justify a lack of representation in some instances,Yes
 2,Man,18 - 23,Romania,At least once a week,At least once a day,Quite important,No,No,Yes,Yes,Historical accuracy/context can justify a lack of representation in some instances,Yes
 3,Man,24-29,United Kingdom,At least once a week,At least once a day,Very important,"Yes, I have heard of it before",Yes,No,Yes,Historical accuracy/context can justify a lack of representation in some instances,Yes
 4,Man,36-41,Croatia,At least once a year,At least once a day,Quite important,"Yes, I have heard of and used it before",No,Other (please clarify in Question 14 below),No,Historical accuracy/context can justify a lack of representation in some instances,Yes
