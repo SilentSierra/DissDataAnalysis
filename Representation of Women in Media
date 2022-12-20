@@ -1,0 +1,65 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMlCoOjXsLmOlwEFouD8RmP",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/SilentSierra/DissDataAnalysis/blob/main/Representation%20of%20Women%20in%20Media\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "USYTzsIkD0IX"
+      },
+      "outputs": [],
+      "source": [
+        "import sys\n",
+        "assert sys.version_info >= (3, 5)\n",
+        "# Python ≥3.5 is required\n",
+        "\n",
+        "# Scikit-Learn ≥0.20 is required\n",
+        "import sklearn\n",
+        "assert sklearn.__version__ >= \"0.20\"\n",
+        "\n",
+        "# Common imports\n",
+        "import numpy as np\n",
+        "import os\n",
+        "import tarfile\n",
+        "import urllib\n",
+        "import pandas as pd\n",
+        "import requests\n",
+        "import io\n",
+        "from sklearn.model_selection import train_test_split\n",
+        "from sklearn.linear_model import LogisticRegression\n",
+        "from sklearn.model_selection import cross_val_score\n",
+        "from sklearn.model_selection import KFold\n",
+        "\n",
+        "# To plot pretty figures\n",
+        "%matplotlib inline\n",
+        "import matplotlib as mpl\n",
+        "import matplotlib.pyplot as plt"
+      ]
+    }
+  ]
+}
