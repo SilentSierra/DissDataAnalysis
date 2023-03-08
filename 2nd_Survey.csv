@@ -5,14 +5,14 @@ ID,Gender,Age,Country,How_often_games,How_many_games,FPS_comments,FPS_other_game
 4,Man,18-23,United Kingdom,At least once a day,7 to 9,,,,,,,,,,,,,,,,,,,,,5,2,3,4,,
 5,Woman,30-35,United States,At least once a week,7 to 9,Add_Bechdel_criteria,Metroid_Prime ,,Disco_Elysium,,Tactics_Ogre ,indies_can_be_more_progressive,Disco_Elysium ,,,,,,,,Bloodborne,,Disco_Elysium,,,4,5,5,5,,add_bechdel_Criteria
 6,Non-binary,18-23,United Kingdom,At least once a day,10 or more,,,How_to_account_for_open_games,Elden_Ring,test_Works_for_jrpgs,,,A_Hat_in_Time,,,,,,,,,,,,,5,5,4,5,,
-7,Prefer t to say,30-35,Poland,At least once a week,4 to 6,,,,,,,,,,,,,,,,,,,,,5,5,5,4,,
-8,Non-binary,24-29,United Kingdom,At least once a week,10 or more,,"Perfect_Dark, Borderlands, Mirror’s_Edge",Do_self_inserts_count,,,,indies_can_be_more_progressive,"Gone_Home, Kentucky_Route_Zero, Where_the_Water_Tastes_Like_Wine","Horror_relies_on_tropes, horror_historically_bad_w_women","Resident_Evil_2, Resident_Evil_3, Resident_Evil_7",,,,,,,,,,,4,3,4,4,,
+7,Prefer not to say,30-35,Poland,At least once a week,4 to 6,,,,,,,,,,,,,,,,,,,,,5,5,5,4,,
+8,Non-binary,24-29,United Kingdom,At least once a week,10 or more,,"Perfect_Dark, Borderlands, Mirrorâ€™s_Edge",Do_self_inserts_count,,,,indies_can_be_more_progressive,"Gone_Home, Kentucky_Route_Zero, Where_the_Water_Tastes_Like_Wine","Horror_relies_on_tropes, horror_historically_bad_w_women","Resident_Evil_2, Resident_Evil_3, Resident_Evil_7",,,,,,,,,,,4,3,4,4,,
 9,Non-binary,18-23,United States,At least once a week,10 or more,,Portal,,Disco_Elysium,,,,"Undertale, Deltarune, Oxenfree",,,,,,,,,,"Umineko, Psycholonials, Hiveswap",,,4,4,4,3,,"test_too_hard_for_casual_use, test_will_always_be_indicative"
 10,Woman,18-23,Netherlands,At least once a day,10 or more,,,,,,,,,,,,,,,,,,,,,5,4,2,4,,
 11,Woman,30-35,United States,At least once a week,1 to 3,,,,,,,,,,,,,,,,,,,,,,,,,,
 12,Man,24-29,Norway,At least once a day,10 or more,Doesn't_include_outside_media,,,,outfits_tend_to_hurt_jrpgs,Xenoblade_Chronicles_3,,Dreamscaper,,,,,,,,,,,,,4,4,4,5,,"test_relies_on_narrative, multiplayer_only_games_break_test"
-13,Woman,less than 18 ,N/A,At least once a day,1 to 3,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,Prefer t to say,18-23,United Kingdom,At least once a day,4 to 6,,,,Red_Dead_Redemption_2,,,,,,,,,,,,,,,,,5,3,5,5,,
+13,Woman,less than 18Â ,N/A,At least once a day,1 to 3,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Prefer not to say,18-23,United Kingdom,At least once a day,4 to 6,,,,Red_Dead_Redemption_2,,,,,,,,,,,,,,,,,5,3,5,5,,
 15,Non-binary,18-23,United Kingdom,At least once a day,4 to 6,,Dishonored_2,,"Dragon_Age, Mass_Effect",,Scarlet_Nexus,,,,,,Turing_Test,,,,,,,,,5,4,5,5,,
 16,Non-binary,18-23,United Kingdom,At least once a week,4 to 6,,,,,jrpgs_rely_on_protags,,indies_can_be_more_progressive,,,,,,,,,,,"Higurashi_When_They_Cry, Umineko_When_They_Cry, Wonderful_Everyday, Seabed",,,5,4,5,5,character_dev_criteria_difficult,doesnt_account_for_some_villains
 17,Man,18-23,United Kingdom,At least once a day,10 or more,,,,,,,,,,,,,,,,,,,,,4,2,4,3,character_creation_makes_test_iffy,
@@ -53,7 +53,7 @@ ID,Gender,Age,Country,How_often_games,How_many_games,FPS_comments,FPS_other_game
 52,Woman,18-23,Thailand,At least once a week,10 or more,,,,,,,,"Crosscode, Ikenfell",,,,,,,,,,,,,5,4,3,4,some_games_have_no_narrative,
 53,Woman,18-23,Portugal,At least once a week,10 or more,,,test_works_for_rpgs,,,Final_Fantasy_13,,,,,,,,,,,,,,,2,5,4,4,some_games_have_mix_of_passing_and_failing_women,player_character_gender
 54,Woman,18-23,Portugal,At least once a week,4 to 6,Test_unapplicable_on_some_games,,test_too_black_and_white,"Hollow_Knight, Deltarune",,,,,,Among_the_Sleep,,,,,,,,,,,4,5,5,4,,stereotype_frequency
-55,Prefer t to say,24-29,United Kingdom,At least once a day,1 to 3,Test_unapplicable_on_some_games,"Slime_Rancher, Subnautica_Below_Zero",excluding_optional_content_bad,,,"Xenoblade_Chronicles_3, Nier_Replicant",,"Child_of_Light, Gone_Home",,,,,,Life_is_Strange,,,,,,,4,4,5,5,some_games_have_no_narrative,doesnt_account_for_some_villains
+55,Prefer not to say,24-29,United Kingdom,At least once a day,1 to 3,Test_unapplicable_on_some_games,"Slime_Rancher, Subnautica_Below_Zero",excluding_optional_content_bad,,,"Xenoblade_Chronicles_3, Nier_Replicant",,"Child_of_Light, Gone_Home",,,,,,Life_is_Strange,,,,,,,4,4,5,5,some_games_have_no_narrative,doesnt_account_for_some_villains
 56,Man,18-23,India ,At least once a day,10 or more,,"Borderlands, metroid_prime, mirrors_edge",,"Mass_effect, disco_Elysium, cyberpunk_2077",,,,,,Medium,,Heavy_rain,,Ghost_of_Tsushima ,,,,,,,4,4,3,4,,
 57,Man,24-29,United States,At least once a week,4 to 6,,,,,,,,,,,,,,,,,,,,,5,4,5,4,,Memorability_of_game
 58,Man,18-23,Portugal,At least once a day,10 or more,,,,,,,,,,,,,,,,,,,,,4,2,5,5,good_rep_is_subjective,doesnt_mention_rep_of_other_characters
